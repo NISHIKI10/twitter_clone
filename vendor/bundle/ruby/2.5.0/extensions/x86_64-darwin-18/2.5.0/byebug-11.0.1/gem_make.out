@@ -1,0 +1,19 @@
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+/Users/nishiki/.rbenv/versions/2.5.1/bin/ruby -I /Users/nishiki/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200107-4282-1l22kol.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200107-4282-mec7rl/byebug

@@ -1,0 +1,15 @@
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+/Users/nishiki/.rbenv/versions/2.5.1/bin/ruby -I /Users/nishiki/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200107-4282-qoa4t9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/nishiki/Desktop/jinsei-exp/twitter-clone/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200107-4282-1w63es7
